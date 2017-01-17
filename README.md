@@ -1,6 +1,8 @@
 # aiml
-Chat rot      
+Chat rob      
+
 setting: pip install aiml
+
 
 AimlTest.py	
 	- Kernel of chat rob 
