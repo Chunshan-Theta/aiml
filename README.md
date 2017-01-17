@@ -1,7 +1,9 @@
 # aiml
 Chat rob      
 
-setting: pip install aiml
+setting: 
+
+	pip install aiml
 
 
 AimlTest.py
