@@ -1,7 +1,7 @@
 import aiml
 #AimlTest.py	
-#	- Kernel of chat rot 
-#	- setting xml for chat rot
+#	- Kernel of chat rob 
+#	- setting xml for chat rob
 #	- create a loop waitting question or sentence
 #       - using aiml
 
